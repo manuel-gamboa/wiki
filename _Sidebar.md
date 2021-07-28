@@ -1,4 +1,4 @@
-1. [Introducción   ](https://github.com/bambucode/eleventa/wiki/Introducción)
+1. [Introducción   ](https://github.com/manuel-gamboa/wiki/Introducción.md)
 
 2. Convenciones
 * [Nomenclatura   ](https://github.com/bambucode/eleventa/wiki/Convenciones-de-Nomenclatura)
