@@ -1,7 +1,7 @@
-1. [Introducción   ](https://github.com/manuel-gamboa/wiki/Introducción.md)
+1. [Introducción   ](https://github.com/manuel-gamboa/wiki/blob/main/Introducción.md)
 
 2. Convenciones
-* [Nomenclatura   ](https://github.com/bambucode/eleventa/wiki/Convenciones-de-Nomenclatura)
+* [Nomenclatura   ](https://github.com/manuel-gamboa/wiki/blob/main/Convenciones-de-Nomenclatura.md)
 * [Funciones y Procedimientos  ](https://github.com/bambucode/eleventa/wiki/Funciones-y-Procedimientos) 
 * [Clases  ](https://github.com/bambucode/eleventa/wiki/Clases) 
 * [Comentarios   ](https://github.com/bambucode/eleventa/wiki/Comentarios)
